@@ -1,6 +1,6 @@
 ## SIMPLE SHELL PROJECT                                                                                                                    
 
-# File that list contributors to the simple shell project.
+# Contributors to the simple shell project.
 
 Dawit Kiros & 
 
